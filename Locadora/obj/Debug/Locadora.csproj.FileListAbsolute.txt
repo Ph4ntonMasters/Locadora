@@ -1,0 +1,11 @@
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\bin\Debug\Locadora.exe.config
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\bin\Debug\Locadora.exe
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\bin\Debug\Locadora.pdb
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\obj\Debug\Locadora.csproj.AssemblyReference.cache
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\obj\Debug\Locadora.Properties.Resources.resources
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\obj\Debug\Locadora.csproj.GenerateResource.cache
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\obj\Debug\Locadora.csproj.CoreCompileInputs.cache
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\obj\Debug\Locadora.exe
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\obj\Debug\Locadora.pdb
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\obj\Debug\Locadora.Login.resources
+C:\Users\majsilva\Desktop\Projetos\Locadora\Locadora\obj\Debug\Locadora.Principal.resources
